@@ -78,17 +78,14 @@ footer{
   }
   
   main{
-    display:block;
-    margin-left:25px;
-    width:100%;
-   
+     width:100%;
+   display:block;
   }
   
   .step-box{
     width:90%;
     float:none;
-  
-  margin-top:0px;
+  margin:auto;
   margin-bottom:20px;
   }
   
